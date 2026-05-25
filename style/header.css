@@ -1,0 +1,8 @@
+@media screen and  (min-width: 800px) {
+    
+    h1 {
+        font-size: 500%;
+        color: #e8b0f0;
+        background-color: rgb(240, 160, 229);
+    }
+}
