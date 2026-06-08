@@ -36,7 +36,7 @@
 }
 
 .agro{
-    background-image: linear-gradient(#64c09513,#44d1e4);
+    background-image: linear-gradient(#64c09513,#f0b65f);
     color:var(--branco);
     display: flex;
     justify-content: center;
